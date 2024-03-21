@@ -5,5 +5,3 @@ through the implementation of this website. By utilizing this platform, we aim t
 and productivity by streamlining various processes through automation.                               
 
 (  Please note that this website is still undergoing testing and is not yet officially complete  )
-
-Ps. I owe much of my coding knowledge to Vijay Thapa; his videos have been instrumental in teaching and guiding me through this journey.
